@@ -1,0 +1,13 @@
+node_modules/
+dist/
+public/
+.env
+.env.*
+!.env.example
+.data/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+coverage/
+test-results/
+tmp/
